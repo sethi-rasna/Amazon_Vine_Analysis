@@ -20,6 +20,7 @@ For this analysis, the "Electronics" category was chosen.
   454 of the 1080 vine reviews were 5 star reviews. 23034 of the non-vine reviews were 5 star reviews. These are about the same proportion of votes per each category. 
 
   - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+  
   42.03$ of the Vine votes were 5 star reviews; whereas, 46.38% of the non-Vine reviews were 5 star reviews.
 
 ## Summary
